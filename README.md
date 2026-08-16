@@ -78,3 +78,7 @@ Aspiring Data Analyst
 ---
 Dataset: Synthetic quick commerce data (1M orders) inspired by Blinkit, Zepto, Swiggy Instamart, Jio Mart and other Indian platforms. For educational/portfolio purposes.
 
+## 📎 Dataset & Dashboard Links
+- 📊 **Raw Dataset:** [Download from Kaggle](https://www.kaggle.com/datasets/rohitgrewal/quick-commerce-dataset)
+- 📈 **Power BI Dashboard:** [View on Google Drive](your-google-drive-link-here)
+
