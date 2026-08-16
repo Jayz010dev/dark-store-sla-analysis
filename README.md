@@ -12,9 +12,12 @@ The question we set out to answer: Why is this happening, and what needs to chan
 Most people assume late deliveries = stores are too far away. We tested that assumption — and found it was wrong.
 We investigated 3 possible causes:
 Cause	What We Found
-Dark store distance too far?	❌ All companies average same distance (~7.75 km)
-Too many orders (overload)?	❌ All cities handle same volume (~79,000 orders each)
-Operational inefficiency?	✅ THIS is the real driver
+Dark store distance too far?	
+❌ All companies average same distance (~7.75 km)
+Too many orders (overload)?	
+❌ All cities handle same volume (~79,000 orders each)
+Operational inefficiency?	
+✅ THIS is the real driver
 ---
 💡 The Key Insight
 Zepto delivers in 9.57 minutes average. Jio Mart takes 22.96 minutes. Both travel the same distance.
