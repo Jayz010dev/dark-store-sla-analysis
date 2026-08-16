@@ -131,6 +131,7 @@ Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook, Power BI, Git, GitHub
 Aspiring Data Analyst
 
 LinkedIn: https://www.linkedin.com/in/jaydeep-jagdale-819b321b8
+
 GitHub: https://github.com/Jayz010dev
 
 ---
