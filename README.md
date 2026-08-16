@@ -71,8 +71,7 @@ Recommendations (strategic actions + implementation priority)
 🛠️ Tools Used
 Python · Pandas · Scikit-learn · Jupyter Notebook · Power BI · Git
 ---
-👤 Author
-[Jaydeep Jagdale]         
+👤 Author [Jaydeep Jagdale]
 Aspiring Data Analyst
 [www.linkedin.com/in/jaydeep-jagdale-819b321b8] | [Jayz010dev]
 ---
